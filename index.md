@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  homepage
+title:  Hi, I'm Claire.
 ---
-Hi, I'm Claire. I like to evaluate social policies with big data. I'm curently visiting [Stanford University](https://siepr.stanford.edu). 
+I like to evaluate social policies with big data. I'm curently visiting [Stanford University](https://siepr.stanford.edu). 
 Say hi on [twitter](https://twitter.com/cmontialoux), or drop me an [email](claire.montialoux@gmail.com). 
 
